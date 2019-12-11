@@ -1,0 +1,4 @@
+files/
+.ipynb_checkpoints/
+prosperLoanData.csv
+output_toggle.tpl
