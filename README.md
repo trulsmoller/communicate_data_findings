@@ -56,3 +56,5 @@ And what affects the APR in a good way, so that the interest rate is as low as p
 
 - Having as high income as possible
 - Being a home owner
+
+Note: You need to download the slides before viewing the presentation.
